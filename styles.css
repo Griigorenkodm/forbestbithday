@@ -309,6 +309,7 @@ body.card-visible {
     position: relative;
     cursor: pointer;
     transition: transform 0.2s ease;
+     -webkit-tap-highlight-color: transparent;
 }
 
 .cake:hover {
